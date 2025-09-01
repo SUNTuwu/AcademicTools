@@ -1,0 +1,187 @@
+主题: Optional Python Proficiency Test – for waiving the pre-requisite requirement of COMP2011 and COMP2211
+时间: 2025-08-21 11:37:40
+发件人: seng-yr1-2025-request@lists.ust.hk
+--------------------正文--------------------
+
+Dear students,
+
+ 
+
+As announced in your academic advising session, an optional Python Proficiency Test will be held on September 2, 2025. This test is designed for students with a fundamental background in Python who wish to waive the COMP2011 and COMP2211 prerequisites.
+
+
+
+For full details, please see the message from the CSE department below.
+
+
+
+If you are interested in taking the test, please register by August 31, 2025.
+
+
+
+Best regards,
+
+E2I
+
+*********message forwarded from the Department of Computer Science and Engineering*********
+
+ 
+
+Dear students,
+
+ 
+
+If you have an adequate Python programming background, you are welcome to take this Python Proficiency Test. Upon passing the test, you will be waived the pre-requisite of COMP2011 (“Programming with C++”) and COMP2211 (“Exploring Artificial Intelligence”). This waiver allows you to directly register COMP2011 and/or COMP2211 without having to take their pre-requisite.  
+
+ 
+
+The Python Proficiency Test will be held on-site (face-to-face) and will extensively cover both programming basics (e.g., control flow, collections, functions, recursion, OOP) and data manipulation libraries (e.g., NumPy, Pandas, and Matplotlib). 
+
+ 
+
+*** Passing this test is only for waiving the pre-requisite. It will NOT guarantee your enrollment into COMP2011 or COMP2211. Whether you can successfully enroll in the course depends on the capacities and the waitlists of the lecture and lab sections. ***
+
+ 
+
+*** This is not a credit-bearing test. Passing this test will NOT grant you 3 credits for the fundamental programming course. ***
+
+ 
+
+Who should take the test:
+
+  - Those students who are competent in fundamental programming in Python and want to waive the pre-requisite of COMP2011 and COMP2211. 
+
+ 
+
+*** Those who are currently taking or have taken COMP1023 are NOT eligible to take this test.  (Please see FAQ1 for more details regarding the pre-requisites of COMP2011 and COMP2211.) ***
+
+ 
+
+Test format: Written, closed-book test including T/F, code comprehension, and code writing questions.
+
+Duration: 1 Hour 30 minutes
+
+Date/Time:       2nd September, 2025 (Tuesday), 8 pm
+
+Venue: On campus (exact venue to be announced).        
+
+ 
+
+Please click on the link below and register for the test before the deadline: 11:59pm 31-August-2025 (Sunday).
+
+Please be sure to read through the FAQ below carefully before you register for the test.
+
+ 
+
+REGISTRATION:  https://ust.az1.qualtrics.com/jfe/form/SV_5u9oFY6B0yHuIZg
+
+Timeline
+
+Before 11:59pm August 31
+
+Register Python Proficiency Test
+
+REGISTRATION:  
+
+https://ust.az1.qualtrics.com/jfe/form/SV_5u9oFY6B0yHuIZg
+
+Registration Deadline: 11:59pm 31-Aug-2025 (Sunday)
+
+September 2
+
+Take the Python Proficiency Test
+
+Date/Time:   2-Sep-2025 (Tuesday).  8:00 pm
+
+Venue:   On campus (to be announced).
+
+On or Before September 5
+
+Python Proficiency Test Result Announced
+
+On or before September 13
+
+Submit the “requisite wavier” to SIS, upload the Python Proficiency Test passing result as supporting documents
+
+ 
+
+What to bring
+
+*	We will check your identity. Please prepare your Student ID card. 
+*	You will need to write your answers in the space provided in black/blue ink.
+*	No electronic device would be allowed in the test. 
+
+ 
+
+The syllabus:  
+
+It covers 2 areas of topics:
+
+1.	Basic programming concepts, which include control flows, Functions, Collections, Recursion, and OOP. 
+2.	Data manipulation libraries, which include NumPy, Pandas, and Matplotlib.
+
+For the details, please refer to the course materials of “COMP1023 – Introduction to Python Programming <https://course.cse.ust.hk/comp1023/proficiency-test/> ”. You can access the course web without authentication within the HKUST campus (You may also access the course webpage without authentication by using the HKUST VPN <https://itso.hkust.edu.hk/services/cyber-security/vpn>  connection).
+
+  
+
+Passing Criteria
+
+To pass the test, you must demonstrate competence in both Area 1 (basic programming concepts) and Area 2 (data manipulation libraries). 
+
+ 
+
+Frequently Asked Questions (FAQ):
+
+1.            What are the pre-requisites of COMP2011 and COMP2211?
+
+For this Fall semester, the pre-requisite of COMP2011 is COMP1021 / COMP1022P / ISOM3230, and the pre-requisite of COMP2211 is COMP1021 / COMP1029P.
+
+Starting from Spring 2026, the pre-requisite of both COMP2011 and COMP2211 is COMP1023. For those who have taken COMP1021, you will need to either pass the Python Proficiency Test or have taken another Python Bridging course to waive the pre-requisite of COMP2011 or COMP2211.
+
+ 
+
+2.            Can this test substitute COMP1023?
+
+No. The test is solely for “requisite waiver” for COMP2011 and COMP2211.  Passing the test neither earns any academic credit nor is considered as equivalent to passing the pre-requisite courses of COMP2011 and COMP2211.
+
+ 
+
+3.            After passing the test and taking COMP2011 and/or COMP2211, can I take COMP1021 / COMP1022P / COMP1023?
+
+No.  
+
+Please note that quite a few programs in HKUST require ONE of the COMP programming courses, such as COMP1021 / COMP1023. If you enroll in one of those programs, make sure you discuss with your program coordinator what you should do to satisfy the above programming course requirement. Most likely, you will be required to file a curriculum deviation to substitute the COMP1021 / COMP1023 course with COMP2011 or other course(s) approved by your program coordinator. Please also be reminded to make-up the 3 credits to fulfill the graduation requirement (https://registry.hkust.edu.hk/resource-library/graduation-requirements-ug <https://registry.hkust.edu.hk/resource-library/graduation-requirements-ug> ). 
+
+ 
+
+For students enrolled in BEng(COMP), BEng(CPEG), BEng(AI) and BSc(COSC), also notice that if you plan to take COMP2011, you will not be able to take COMP2012H afterwards, but COMP2012 to fulfill the major requirement.
+
+ 
+
+(For details of curriculum deviation, see https://registry.hkust.edu.hk/resource-library/deviation-curriculum-ug )
+
+ 
+
+4.            How long is the result of the test valid for?
+
+The result is valid for registering COMP2011 or COMP2211 within 1 year.  
+
+ 
+
+5.            After passing the test, can I take COMP2012H?
+
+No. This test is only for waiving the pre-requisite of COMP2011 and COMP2211. If you would like to enroll in COMP2012H, you will need to separately submit a “requisite waiver”, and it is subject to the approval of COMP2012H’s instructor.
+
+ 
+
+6.            After I have taken COMP1023 but failed, can I use the test to waive the pre-requisite of COMP2011 or COMP2211 pre-requisite requirement?
+
+No.  If you have taken COMP1023, you are not allowed to take the test. Also, when you register for COMP2011 or COMP2211, you must not have taken COMP1023 before.
+
+ 
+
+Should you have any inquiries, please contact:  pythontest@ust.hk
+
+=====================================================================================
+
+ 

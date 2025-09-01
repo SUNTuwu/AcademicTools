@@ -1,0 +1,63 @@
+主题: Important Notice: Changes to Microsoft 365 Storage for HKUST Student Accounts
+时间: 2025-08-12 08:59:55
+发件人: itso-info-ms-storage-update-std-request@lists.ust.hk
+--------------------正文--------------------
+
+ 
+
+
+
+Dear Student, 
+
+We would like to inform you about the recent changes to your Microsoft student account storage, in line with the Global Microsoft 365 Education updates <https://www.microsoft.com/en-us/education/products/microsoft-365-storage-options>  affecting universities worldwide. Under these changes, HKUST student Email Mailboxes will be adjusted to 15 GB, and the OneDrive quota will be adjusted to 50 GB.
+
+ 
+
+Newly created HKUST student accounts in the current cohort will be assigning these new storage quotas. Existing students will be gradually transitioned to the new quotas by 31 October 2025.
+
+ 
+
+Detailed updates to all HKUST Student Accounts <https://itso.hkust.edu.hk/services/general-it-services/user-account/student/student-account#Updates-Std-Account>  and suggested good practices: 
+
+Email: 
+
+*	The quota will be adjusted to 15GB.
+*	Once your mailbox reaches 90% capacity, the Archive Mailbox <https://itso.hkust.edu.hk/services/general-it-services/communication-collaboration/email/exchange-online/archive-mailbox>  will be automatically activated in Outlook, and emails older than two years will be moved to this Archive Mailbox, freeing up space and not counting towards your storage quota.
+
+ 
+
+Please note that your HKUST student email account serves as the University’s official communication channel. Please regularly delete unnecessary emails <https://support.microsoft.com/en-us/office/mailbox-storage-limits-in-outlook-f170fe90-b859-4034-bcda-e186fc6a26f5>  and saving large attachments to other storage to ensure you continue to receive important emails from the University. 
+
+ OneDrive:
+
+*	The quota will be gradually adjusted to 50GB.
+
+*	When OneDrive usage exceeds the quota, access will be restricted to read/download/delete functions only.
+
+ 
+
+Please review your OneDrive and clean up unnecessary files <https://support.microsoft.com/en-us/office/delete-files-or-folders-in-onedrive-21fe345a-e488-4fa7-932b-f053c1bebe8a>  to stay within the quota. 
+
+Need Help? 
+
+*	Email: cchelp@ust.hk <mailto:cchelp@ust.hk?subject=Important%20Notice:%20Changes%20to%20Microsoft%20365%20Storage%20for%20HKUST%20Alumni%20Accounts>  or Call: +852 2358 6200 
+*	Forgot password? Please use: Retrieve your username <https://w5.ab.ust.hk/jsan/o_login_all>  or Forgot password <https://myaccount.ust.hk/passwd/forget?execution=e1s1> 
+*	For details: Microsoft 365 Storage Global Reduction <https://itso.hkust.edu.hk/services/general-it-services/m365-storage-quota-update>  
+
+ 
+
+Thank you for your cooperation in fostering a secure and sustainable digital environment.
+
+ 
+
+Best Regards,
+
+Anson LEE
+
+IT User Services Manager
+
+Information Technology Services Office 
+
+
+
+ 

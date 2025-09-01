@@ -1,0 +1,17 @@
+主题: Python Proficiency Test: Successful Registration
+时间: 2025-08-29 18:10:07
+发件人: Python Proficiency Test
+--------------------正文--------------------
+
+Dear student,
+
+Thank you for your registration to the Python Proficiency Test.
+The test will be held on campus at 8pm on 2nd September 2025. We will inform you the exact venue on or before 2pm that day.
+
+Please be reminded again COMP 2011 and COMP 2211 are both challenging and demanding courses. Therefore, please carefully consider whether not taking COMP1023 is the best option for you. 
+Taking the test will not prevent you from remaining enrolled in or taking COMP1023.
+
+Feel free to contact us at pythontest@ust.hk <mailto:pythontest@ust.hk>  if you have any concerns or questions.
+
+Best,
+Python Proficiency Test Team

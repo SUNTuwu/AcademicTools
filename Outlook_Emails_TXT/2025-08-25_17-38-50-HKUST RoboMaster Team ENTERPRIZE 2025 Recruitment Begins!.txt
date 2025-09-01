@@ -1,0 +1,86 @@
+主题: HKUST RoboMaster Team ENTERPRIZE 2025 Recruitment Begins!
+时间: 2025-08-25 17:38:50
+发件人: ece-ug-list-request@lists.ust.hk
+--------------------正文--------------------
+
+Dear all Engineering UG Students,
+
+ 
+
+Are you looking for a place where you can transform lectures knowledge into working robots, a place you can have hands-on experience in full-cycle machine production, or a place you can immerse yourself in a vibrant tech atmosphere with a community of like-minded enthusiasts?
+
+ 
+
+Come and join RoboMaster Team ENTERPRIZE!
+
+ 
+
+
+
+ 
+
+Introduction to RoboMaster and ENTERPRIZE
+
+RoboMaster is the world's first intelligent shooting robot competition organised by DJI. In the competition, red and blue teams each field seven robots with different functionalities and engage in tactical combat using first-person shooter (FPS) gameplay on a MOBA-style tower defence map.
+
+HKUST RoboMaster team ENTERPRIZE represents the university in the RoboMaster University Series every year. We have won international regional championships and RoboMaster University League branch championships in past years. Since the establishment ten years ago, the team has accumulated a wealth of technical expertise and fostered a strong technical atmosphere.
+
+What do we do at ENTERPRIZE?
+
+Constructing a robot is an interdisciplinary project that requires the collaborative efforts of developers from multiple technical departments. In our team, we are divided into the following four technical departments, each of which plays a crucial role in the manufacturing and development process of the robot. Choose one to join based on your interests or expertise!
+
+The Mechanical Department is responsible for designing robot blueprints using the 3D modelling software SolidWorks, then processing parts via 3D printing or CNC machine tools, and finally assembling the robot structure to complete the transition from blueprint to reality. During the mid-to-late stages of the season, the Mechanical Department iterates on the blueprints and performs regular maintenance and repairs based on the issues and requirements encountered when the Software and Algorithm Departments test the robot.
+
+The Hardware Department is responsible for designing and drawing PCB circuit boards, selecting and soldering appropriate electronic components, and finally connecting the circuits on the robot. During the subsequent testing process by the Software and Algorithm Departments, the hardware design is iterated based on the stability issues and performance requirements encountered by the system, and regular maintenance and troubleshooting work is also carried out.
+
+The Software Department is responsible for implementing serial communication and motion control to build a system of various modules on the robot by writing C++ programs on the STM32 microcontroller. Tasks such as controlling motors and other motion actuators to achieve flexible robot movement, or ensuring that bullets are fired at a stable speed are important jobs of Software Department. During the subsequent testing process conducted by the Algorithm Department, the program and parameters will be optimized and adjusted by the Software Department according to the requirements for control accuracy and response speed.
+
+The Algorithm Department needs to process information collected by sensors such as cameras and lidar to let the robots perceive the surroundings, as if equipping the robots with 'vision' or 'perception', and thus automatically or semi-automatically complete various tasks on the battlefield. This allows the robots to strike opponents and activate buffs more quickly and accurately than when controlled manually by operators, and thereby gains an advantage on the battlefield for the team.
+
+How to join?
+
+Step 1: Scan the QR code on the poster or click the link https://ust.az1.qualtrics.com/jfe/form/SV_cHolyyw6yx5YB4G <https://ust.az1.qualtrics.com/jfe/form/SV_cHolyyw6yx5YB4G>  to register.
+
+Step 2: Scan the QR code on the poster or click the link https://discord.gg/wdD853YK <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiscord.gg%2FwdD853YK&data=05%7C02%7Cxlilv%40connect.ust.hk%7C75610ae60df5489bb13408dde3bb2800%7C6c1d415239d044ca88d9b8d6ddca0708%7C1%7C0%7C638917115300726768%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=42fovMHQLB5XfDZaFkxqsUIAHsamzUJmCzobELnejUo%3D&reserved=0>  to join our Discord server. All important announcements regarding recruitment will be posted on Discord.
+
+Step 3 (Optional): Scan the QR code on the poster to follow our WeChat official account and join our WeChat chat group. Please note that this step is not mandatory for members wishing to join ENTERPRIZE.
+
+The interview questions are available at https://drive.google.com/drive/folders/1d_2rUnT1Fa1yAOuGbOX2Vz5af7jI-haj?usp=sharing <https://drive.google.com/drive/folders/1d_2rUnT1Fa1yAOuGbOX2Vz5af7jI-haj?usp=sharing> . Before the interview, you can do research through any online resources to prepare for the interview questions. It is important to note that the the purpose of the interview is not to assess your current technical expertise, but to let us know your attitude to learn, ability to explore, critical thinking skills and communication skills.
+
+Want more info?
+
+Wechat official account: HKUST ENTERPRIZE
+
+Bilibili: 港科大ENTERPRIZE战队 <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspace.bilibili.com%2F634988052&data=05%7C02%7Cxlilv%40connect.ust.hk%7C75610ae60df5489bb13408dde3bb2800%7C6c1d415239d044ca88d9b8d6ddca0708%7C1%7C0%7C638917115300747791%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=EpWrJJDc88pKH8MqpUj%2FOMHU8VohkCS%2B0OMmcJH%2FN2c%3D&reserved=0> 
+
+ 
+
+Contact us if you have any inquiries: robomasterhkust@gmail.com <mailto:robomasterhkust@gmail.com> 
+
+ 
+
+Best Regards,
+
+HKUST RoboMaster Team ENTERPRIZE
+
+G04, UG HALL VIII, HKUST, Clear Water Bay 
+
+Sai Kung, Hong Kong 
+
+ 
+
+ 
+
+ 
+
+---------------------------------------------------------------------------
+
+Center for Global & Community Engagement (GCE)
+
+School of Engineering
+
+The Hong Kong University of Science & Technology
+
+Instagram: @hkust.seng.gce
+
+https://www.instagram.com/hkust.seng.gce/ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fhkust.seng.gce%2F&data=05%7C02%7Cxlilv%40connect.ust.hk%7C75610ae60df5489bb13408dde3bb2800%7C6c1d415239d044ca88d9b8d6ddca0708%7C1%7C0%7C638917115300758317%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yR442fwx4TAExSynqwhQDmM4UdqNT6VYbFS26mzbtrk%3D&reserved=0> 

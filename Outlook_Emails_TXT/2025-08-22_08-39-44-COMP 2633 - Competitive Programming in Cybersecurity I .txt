@@ -1,0 +1,93 @@
+主题: COMP 2633 - Competitive Programming in Cybersecurity I 
+时间: 2025-08-22 08:39:44
+发件人: seng-yr1-2025-request@lists.ust.hk
+--------------------正文--------------------
+
+Dear Students,
+
+ 
+
+Please note that the Department of Computer Science and Engineering (CSE) is offering COMP 2633 - Competitive Programming in Cybersecurity I, a course designed for those interested in learning cyber-threats and competing in CTF challenges. For full details, please see the forwarded message below.
+
+ 
+
+Best regards,
+
+E2I
+
+ 
+
+*********message forwarded from the Department of Computer Science and Engineering*********
+
+ 
+
+ 
+
+Dear students, 
+
+ 
+
+Do you know that Cyberattacks happen far more frequently than you thought? Do you know that over 80% of the 500 biggest companies in the world have experienced Cyberattacks? Even the luxurious brand, LVMH, is of no exception and suffered from a major Cyberattack in the past July. Do you know that Cyber-attacks have cost the world 9,500,000,000,000 USD (i.e., 9.5 trillion USD) in 2024?
+
+ 
+
+Even some of today’s most secure computer systems could be vulnerable to malicious attacks. In fact, any equipment with a processing unit is susceptible to Cyberattacks.  Do you want to learn how vulnerable the systems are? Do you want to meet cybersecurity enthusiasts and learn about cyber-threats with some of the most knowledgeable senior students of your age? Do you want a course that would train you to deal with system vulnerabilities and apply your skills in local and global cybersecurity competitions? The chance to mingle and cooperate with knowledgeable students and compete alongside them? If the answers to the above questions are positive, then our course  
+
+ 
+
+ 
+
+COMP 2633 - Competitive Programming in Cybersecurity I 
+
+ 
+
+could be the dream course for you! Many of the talented students joining the course in the previous semesters have won prizes in various cybersecurity competitions, and you could talk to these talented people directly through the course! They will help train you! If you are talented and independent enough, together with them, you too could win prizes in various competitions!  This course COMP2633 is probably one of the few courses that would give you the chance to know how real-world hackers would hack the systems! 
+
+ 
+
+To stay legal, we will not really hack in the course. But if you join the course, you will learn hacking skills through CTF (Capture The Flag) challenges. These challenges usually mimic real-world scenarios, and if you could solve those challenges, it usually indicates you have the knowledge and ability to do what a hacker could do. The knowledge and ability, together with other skills, could help you build secure computer systems that would become a pain to attack!  To have a taste of CTF challenges, we have created a "playground" for you to try some “baby” level questions: 
+
+ 
+
+
+https://intro.firebird.sh/ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fintro.firebird.sh%2F&data=05%7C02%7Cxlilv%40connect.ust.hk%7C8b0f046183db4467777208dde1145dbc%7C6c1d415239d044ca88d9b8d6ddca0708%7C1%7C0%7C638914199837205384%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=mto9ZpF0wCzbPr5RKeVltSDm7nGBwAnHD0qnT8AMU9U%3D&reserved=0>  
+
+ 
+
+Please take a look! You can access the challenges at the bottom by clicking the “Try some CTF challenges” button. If you find some of these challenges to be a bit overwhelming, it is normal! Perhaps you should consider joining the first class of COMP2633 on 5th September to learn more.  
+
+ 
+
+If you find these challenges to be interesting and even easy for you, then you should definitely consider joining the first class of COMP2633! Together with our seasoned Firebird cybersecurity team members, you could be another award-winning team member!  
+
+ 
+
+In the above “playground”, there is also a “Youtube” video prepared by the CTF community explaining the idea of CTF. Feel free to take a look if you want to know more about CTF in general. 
+
+ 
+
+If you are still hesitating about whether you should really join the course, perhaps the painkilling decision is just to join the first class of COMP2633! The first class will happen on Friday, 5th September, at 6 pm. Its ZOOM link is at: 
+
+ 
+
+https://hkust.zoom.us/j/96272026341?pwd=wD8RsZmfJjPIGwGROPDNsNQNmrB21I.1
+
+ 
+
+This class is likely to provide you with all the detailed information for making the decision whether to enroll or not (grade calculation, skill sets involved, etc). We will also start our first set of training in the first class to let you know what the remaining classes are like. Remember our course DOES NOT COME WITH ANY PREREQUISITE, you will absolutely lose nothing by joining the first class, and it is online anyway.  
+
+ 
+
+If you have questions, feel free to send an email to us at firebird@cse.ust.hk <mailto:firebird@cse.ust.hk>  (do not reply directly to the sender of this email). We hope you will grasp this valuable opportunity and get involved if you also have a keen passion for the practical aspects of the Cybersecurity field!  
+
+ 
+
+Best regards, 
+
+Dr. Alex Lam of the Department of CSE, and the Firebird CTF Team 
+
+
+
+ ========================================email ended=========================================================
+
+ 

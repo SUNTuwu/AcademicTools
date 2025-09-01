@@ -1,0 +1,141 @@
+主题: [Press Release] HKUST Launches World’s Largest AI-Powered Educational Sandbox Game: Advancing AI Literacy and Encouraging Citizen Science
+时间: 2025-08-19 17:13:02
+发件人: allug-list-request@lists.ust.hk
+--------------------正文--------------------
+
+	
+If you can’t read this email, click here <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2Fnews%2Fhkust-launches-worlds-largest-ai-powered-educational-sandbox-game-advancing-ai-literacy-and&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890607930991%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7S2nD6y%2FkwBQBXB8RcZ6Iv4gkcqa9zCtPov1zMuPKOs%3D&reserved=0>  
+
+	
+ 
+
+	
+ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2F&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890607990789%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yb1BdGl2sKT2XBbrWhmPzcIRXbAP04zcNW%2B3Ckc%2FNvg%3D&reserved=0> 
+
+	
+	
+HKUST Launches World’s Largest AI-Powered Educational Sandbox Game: Advancing AI Literacy and Encouraging Citizen Science
+
+	
+	
+2025-08-19
+
+	
+
+ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2Fsites%2Fdefault%2Ffiles%2Fnews%2F23881%2FCSC06367_0.JPG&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608016931%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rNyoEo0fMQA1OcLfacoezLl96SlpJHUcRh6E5MPR2SU%3D&reserved=0> 
+
+	
+Prof. CHEN Kani from the Department of Mathematics and the Department of Industrial Engineering and Decision Analytics at HKUST (front row, middle) and his PhD student in Mathematics Mr. YANG Haowei (back row), have led the development of "Aivilization", the largest-scale AI multi-agent social simulation sandbox to date. Maths PhD student Mr. Ricky CHAN (front row, right) and computer science Mphil student Miss CHEN Xingyan (front row, left) are members of the research team.
+
+	
+
+The Hong Kong University of Science and Technology (HKUST) today announced the launch of “Aivilization”, the largest-scale AI multi-agent social simulation sandbox to date. This innovative platform studies how human interaction with AI can shape a virtual society, where ‘AI inhabitants’ can organically develop their own governance structures, economies and cultural norms.  
+
+As AI becomes increasingly integrated into our daily lives, understanding the dynamics of communication between humans and artificial intelligence has become a crucial area of study. Previous simulation models like Project Sid1 and Stanford Smallville2 have explored similar themes, with community sizes of around 1,000 and dozens of AI agents respectively, to observe the evolution of AI civilizations.
+
+Aivilization significantly expands on these efforts by combining interactive gameplay, large-scale public participation and real-time AI experimentation, involving 100,000 AI agents over a six-week period. Unlike traditional AI sandbox environments, which often face high operational costs and static evaluation frameworks, Aivilization introduces groundbreaking advancements that enhance the platform's performance and enable more in-depth studies of human-AI interactions. Key innovations include:
+
+*	An AI society Mimicking the Real World: The AI characters of this platform exhibit more complex behaviors and near-human capabilities in areas such as production, free trade, socializing, career planning, and lifestyle management, allowing them to generate their own culture and society. 
+*	Lower cost and Scalable Public Participation: Unlike previous AI civilization simulations that operated as single-instance, offline models with simpler character architectures, Aivilization functions on a real-time massive multiplayer online (MMO) system with industrial-grade character framework system. Together with autonomous model scaling, the operational cost of each AI character is just US$2 per month — a reduction of over 95% compared to other sandbox platforms - greatly increasing the scale of public participation. 
+*	Dynamic Human-AI Synergy: Players can engage in more meaningful interactions with their AI characters by selecting an MBTI type for them and influence their ‘thoughts and lives’ through prompts. Players can adjust their communication tactics during character development, offering advice and guidance on study paths, job hunting and relationships. 
+*	Evaluation for players and AI characters: The platform uniquely analyzes both the social and career developments of AI characters and the effectiveness of players’ communication with them. It also provides guidance to help players enhance their interactions with AI.
+
+
+Bridging the AI Literacy Gap Through Gaming
+
+
+Designed to transform AI literacy education into an engaging, hands-on gaming experience where users can create, train, and collaborate with AI agents in a dynamic virtual environment, Avilization is now accessible for global participation at https://www.aivilization.ai/ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.aivilization.ai%2F&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608119751%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NC0hfCWUDEWu9HBCEIpl1eipyoToScHyKwvytYhMlnk%3D&reserved=0> . Complimentary access is available to students, researchers, educators, professionals from the higher education sector, AI enterprises, and the gaming industry on a first-come-first served basis. Participants will engage in a six-week experiment from August to October to observe emergent behaviors in human-AI collaboration, and will receive a “life report” detailing their characters’ development across five aspects: fortune, work achievements, life satisfaction, skills and knowledge, and social relationships upon completion. Players will also receive analysis on the effectiveness of their communications with AI characters. 
+
+Prof. CHEN Kani from the Department of Mathematics and the Department of Industrial Engineering and Decision Analytics at HKUST, who led the development of this platform, said, “Empowering individuals with AI literacy is foundational to navigating and shaping the future. At HKUST, we have always championed this vision, leading the way in interdisciplinary AI education that equips users with precision-driven command execution and prompt engineering skills. By cultivating these competencies, we are not simply preparing for tomorrow’s challenges but actively shaping the vision of a human-centric AI future.” 
+
+Mr. YANG Haowei, a PhD student of Prof. Chen in Mathematics who contributed to the platform’s development, added, “Users are able to refine commands that yield accurate AI responses, with built-in tutorials from basic syntax to advanced techniques like chain-of-thought prompting. Whether you are a student, entrepreneur, or curious parent, this game teaches you to communicate effectively with AI, transforming vague ideas into actionable prompts that get tangible results.” 
+
+
+Global Accessibility and Unlimited Potential
+
+
+The team has founded Bauhinia AI, an HKUST-incubated start-up dedicated to transforming cutting-edge AI research into global commercial applications in gaming, digital economy, social simulation and market research. 
+
+HKUST has always been at the forefront of AI education, taking pioneering steps as the first university in Hong Kong to adopt generative AI in response to its growing prominence. In May 2025, the HKUST Von Neumann Institute launched the Artificial Intelligence School Education Program to promote AI knowledge and awareness among local secondary school students. 
+
+For enquiries about “Aivilization”, please contact: hello@aivilization.ai <https://apc01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fhello%40aivilization.ai%2F&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608194222%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=kfmiuNf382AzHwXE6KZvMnt4mbywMRt%2BUdSKD2zwzME%3D&reserved=0>  
+
+ 
+
+ 
+
+Footnote 1: Project Sid: Many-agent simulations toward AI civilization <https://arxiv.org/abs/2411.00114> 
+
+Footnote 2: Generative Agents: Interactive Simulacra of Human Behavior <https://arxiv.org/abs/2304.03442> 
+
+	
+
+ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2Fsites%2Fdefault%2Ffiles%2Fnews%2F23881%2FCSC06058.JPG&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608277632%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=29P79wu9mA8baaMV4raSSoBPXMbMtSowK8bGns5yYyc%3D&reserved=0> 
+
+	
+Aivilization combines interactive gameplay, large-scale public participation and real-time AI experimentation, involving 100,000 AI agents over a six-week period. Prof. Chen Kani (left), and PhD student Mr. Yang Haowei (right) co-led the platform’s development.
+
+	
+
+ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2Fsites%2Fdefault%2Ffiles%2Fnews%2F23881%2FCSC06171.JPG&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608301515%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DITeNq9eUstus44zdfCHiYrbdPWArqDfMUbsU5XPmaU%3D&reserved=0> 
+
+	
+An introverted AI character creates by PhD student Ricky Chan has gradually evolves into a socially active ‘person’ under his guidance.
+
+	
+
+ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2Fsites%2Fdefault%2Ffiles%2Fnews%2F23881%2FCSC06188.JPG&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608337434%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IQFl1PCA0Fs3BrurQj2cpNDw035oQDySajBf39zqzcY%3D&reserved=0> 
+
+	
+The AI character creates by MPhil student Chen Xingyan has “personal growth” under her patient guidance and has now evolved to become the "richest man” on the game’s wealth ranking.
+
+	
+
+ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2Fsites%2Fdefault%2Ffiles%2Fnews%2F23881%2Fcollage.png&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608364436%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wXkNE6ECKOckqxJK8vWqntA8PsQcqhoIoYVSnDEoVRU%3D&reserved=0> 
+
+	
+Players can engage in more meaningful interactions with their AI characters by selecting an MBTI type for them and influence their ‘thoughts and lives’ through prompts. Players can also adjust their communication tactics during character development, offering advice and guidance on study paths, job hunting and relationships. 
+
+	
+	
+	
+	
+
+About The Hong Kong University of Science and Technology 
+The Hong Kong University of Science and Technology (HKUST) (https://hkust.edu.hk/ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2F&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608415892%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=W9HLZtfypqydLiof7Umiqa4%2BxUneWZPXZotWucNRSdI%3D&reserved=0> ) is a world-class university that excels in driving innovative education, research excellence, and impactful knowledge transfer. With a holistic and interdisciplinary pedagogy approach, HKUST was ranked 3rd in the Times Higher Education’s Young University Rankings 2024, 19th Worldwide and No.1 in Hong Kong in Times Higher Education’s Impact Rankings 2025. Thirteen HKUST subjects were ranked among the world’s top 50 in the QS World University Rankings by Subject 2025, with “Data Science and Artificial Intelligence” holding the 17th place, maintaining its position as first in Hong Kong. Our graduates are highly competitive, consistently ranking among the world’s top 30 most sought-after employees. In terms of research and entrepreneurship, over 80% of our work was rated “Internationally excellent” or “world leading” in the latest Research Assessment Exercise 2020 of Hong Kong’s University Grants Committee. As of May 2025, HKUST members have founded over 1,800 active start-ups, including 10 Unicorns and 17 exits (IPO or M&A).
+
+For media enquiries, please contact:
+
+Anita LAM
+Tel: 2358 6313
+Email: anitalam@ust.hk <https://apc01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fanitalam%40ust.hk%2F&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608444486%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DXgZYu316zJe4jmXj%2F598rVERYJ0z7GLx%2FBxmmo51Jc%3D&reserved=0> 
+
+Megan CHICK
+Tel: 3469 3153
+Email: meganchick@ust.hk  <mailto:%20meganchick@ust.hk > 
+
+	
+ 
+
+	
+	
+ <https://hkust.edu.hk/modules/custom/hkust_edm/subscribe.png>   Sign up for our latest news 
+
+	
+Subscribe <https://newsletter.ust.hk/Subscription/subscription.php?action=Subscribe&nsl=Explore&lang=EN>  
+
+	
+Follow HKUST on 
+
+	
+ <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fhkust&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608518342%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2Bj3IhEPbFKkj%2BctYwBemdZrUxF5aEPRBcQ1E0P5hCBY%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fschool%2Fhkust&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608622334%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jwPAXOiWNjiNE1%2F%2F2G%2BtBQXDqThpZgAS3KUoz4Sx%2FFM%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fhkust%2F&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608662157%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=mQuCk9IJMIGtg0zbGZy1YgCveZHh5dOXxTdt6mK%2BRzg%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fuser%2FHKUST&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608696078%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Gj956W78f1y2OvSqtPKjkf6PJkMIsjU0ttJrAnPmg2Y%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fhkust&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608720374%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Pb4AtRZkJq%2BNprAPtGBytc6QEsOpA6nXP4gjTYTn1b8%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhkust.edu.hk%2Fsites%2Fdefault%2Ffiles%2Fmenu_icons%2FIMG_5246.JPG&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608745587%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ksKzrwsDg4Z3a64jpcD%2BzU3MjkS4OmjDC2czV69wpkI%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fv.qq.com%2Fbiu%2Fvideoplus%3Fvuid%3D2601305076&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608779805%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ip19M9em47F3Fje%2F2grs2iibKjUemg6wdnS%2BFD72YEM%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F6139beb0000000000201f9b7&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608835306%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KOsrAF5CSnlvCST7DkFUYzwUECMhFyfac4BXt%2BpHt04%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.zhihu.com%2Forg%2Fxiang-gang-ke-ji-da-xue-18&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608906360%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VrNl1mltiCES7JPSAuzhW7TSOvG5yUMCP1N31b8wI2Y%3D&reserved=0>  <https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweibo.com%2Fp%2F1002067727144419%2Fhome%3Ffrom%3Dpage_100206%26mod%3DTAB%26is_all%3D1%23place&data=05%7C02%7Cmeganchick%40ust.hk%7C4a7e6f3253574ee40dae08dddefab810%7Cc917f3e2932249269bb3daca730413ca%7C1%7C0%7C638911890608978759%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QgOHE53DX9yAI%2F0gE8omdiPOgfKIzFpUKETzOGwFWmo%3D&reserved=0> 
+
+	
+ <https://hkust.edu.hk/modules/custom/hkust_edm/footer_logo_en.png> 
+
+	
+Copyright © The Hong Kong University of Science and Technology. All rights reserved. 
+
+	
+
+ 
